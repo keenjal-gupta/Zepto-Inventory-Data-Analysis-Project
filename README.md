@@ -21,7 +21,8 @@ The goal of this project is to simulate how data analysts work in retail and e-c
 
 📁 Dataset Overview
 
-• Source: Kaggle (originally scraped from Zepto’s official product listings) 
+• Source: Kaggle (originally scraped from Zepto’s official product listings)
+
   https://www.kaggle.com/datasets/palvinder2006/zepto-inventory-dataset/data
   
 • Domain: E-commerce / Quick-commerce / Retail Analytics
