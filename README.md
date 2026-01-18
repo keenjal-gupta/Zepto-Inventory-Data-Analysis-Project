@@ -23,6 +23,7 @@ The goal of this project is to simulate how data analysts work in retail and e-c
 
 • Source: Kaggle (originally scraped from Zepto’s official product listings) 
   https://www.kaggle.com/datasets/palvinder2006/zepto-inventory-dataset/data
+  
 • Domain: E-commerce / Quick-commerce / Retail Analytics
 • Granularity: Each row represents a unique SKU (Stock Keeping Unit)
 • Duplicate product names exist because the same product appears with different:
